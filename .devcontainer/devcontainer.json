@@ -1,0 +1,7 @@
+{
+  "name": "Linux Desktop GUI",
+  "image": "mcr.microsoft.com/devcontainers/universal:1",
+  "features": {
+    "ghcr.io/devcontainers/features/desktop-lite:1": {}
+  }
+}
